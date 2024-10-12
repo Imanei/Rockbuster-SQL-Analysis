@@ -1,4 +1,4 @@
-# SQL 
+# SQL Project
 # Rockbuster SQL Analysis 
 This is an analysis using SQL of the DVD company Rockbuster Stealth LLC.
 ## Objective
